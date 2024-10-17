@@ -3,7 +3,7 @@ Version:	42482
 Release:	2
 Summary:	Experimental unicode bidi package for XeTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/unicode-bidi
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/unicode-bidi
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unicode-bidi.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/unicode-bidi.doc.r%{version}.tar.xz
